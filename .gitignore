@@ -38,3 +38,4 @@
 
 #IntelliJ File
 /.idea
+/node_modules/
