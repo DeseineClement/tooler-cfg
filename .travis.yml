@@ -3,6 +3,7 @@ language:
 
 os:
   - linux
+  - osx
 
 script:
   - cargo build
